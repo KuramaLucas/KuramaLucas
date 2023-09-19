@@ -1,16 +1,25 @@
-### Hi there 👋
+### Opa! Me chamo Lucas Henrique
 
-<!--
-**KuramaLucas/KuramaLucas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Atualmente estou fazendo projetos (na faculdade) com C# e Html
+- 🌱 Estou começando a aprender CSS e Java
 
-Here are some ideas to get you started:
+<div>
+<a href ="https://github.com/KuramaLucas">
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=KuramaLucas&show_icons=true&theme=dark"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=KuramaLucas&show_icons=true" />
+</picture>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<picture>
+  <source
+srcset="https://github-readme-stats.vercel.app/api/top=langs/?username=KuramaLucas&layout=compact&langs_count=l6&theme=dark"
+    />
+<img  src="https://github-readme-stats.vercel.app/api/top=langs/?username=KuramaLucas&layout=compact&langs_count=16&theme=dark"/>
+
+
+</picture>
+
+</div>
+
