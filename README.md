@@ -16,8 +16,8 @@
 
 
 <div>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=KuramaLucas&show_icons=true&theme=dark"> 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KuramaLucas&layout=compact&langs_count=16&theme=dark"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=KuramaLucas&show_icons=true&theme=dark"> 
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KuramaLucas&layout=compact&langs_count=16&theme=dark"/>
 
 </div>
 
