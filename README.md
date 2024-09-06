@@ -1,7 +1,7 @@
 ### Opa! Me chamo Lucas Henrique
 
-- 🔭 Atualmente estou fazendo projetos (na faculdade) com C# e Html
-- 🌱 Estou começando a aprender CSS e Java
+- 🔭 Atualmente tenho conhecimento (intermediario) em C#, Node.js, mySQL, Mongodb, Javascript
+- 🌱 Estou começando a aprender React, Prisma, Typescript
 ## Linguagens que eu uso
 <div style="display: inline_block">
   <img align="center" alt="Lucas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
