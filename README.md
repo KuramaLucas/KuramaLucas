@@ -1,5 +1,5 @@
-### Opa! Me chamo Lucas Henrique
-
+  ### Opa! Me chamo Lucas Henrique
+- Atualmente não estou na area ainda, trabalho num supermercado e acabei de terminar a faculdade no meio do ano de 2024 e estou em busca de uma oportunidade para entrar nessa area. Tenho muita vontade de aprender e sei que poderia crescer muito no lugar que me oferecer essa oportunidade.
 - 🔭 Em Node Tenho um bom conhecimento no desenvolvimento de aplicações back-end, com foco em APIs RESTful. (Tenho experiência na criação de rotas, validação de dados e resposta a diferentes tipos de requisições HTTP. Já fiz projetos com banco de dados relacionais, como PostgreSQL, e não-relacionais, como MongoDB, utilizando bibliotecas como Prisma, Sequelize e Mongoose, Já implementei autenticação JWT (JSON Web Tokens).
 - Em C# foi a linguagem que eu fiz os projetos na faculdade, aprendi POO com ela e consigo dominar bem ela porém não tenho conhecimento dos frameworks dela (caso necessário aprenderei)
 - Falando de banco de dados ja utilizei alguns como o mongodb, mysql e o postgres
